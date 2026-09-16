@@ -7,14 +7,6 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Windows.Forms;
 
-[assembly: System.Reflection.AssemblyTitle("Screen Color Picker Helper")]
-[assembly: System.Reflection.AssemblyDescription("Open-source Windows screen color picker helper")]
-[assembly: System.Reflection.AssemblyCompany("Vladimir Tsiko")]
-[assembly: System.Reflection.AssemblyProduct("Screen Color Picker Helper")]
-[assembly: System.Reflection.AssemblyCopyright("Copyright (c) 2026 Vladimir Tsiko")]
-[assembly: System.Reflection.AssemblyVersion("1.0.0.0")]
-[assembly: System.Reflection.AssemblyFileVersion("1.0.0.0")]
-
 internal static class Program
 {
     private const int VkLeftButton = 0x01;
